@@ -1,0 +1,67 @@
+form{
+  margin-top: 30px;
+}
+
+.input-group{
+    margin-bottom: 15px;
+  }
+  
+  legend{
+    text-transform: uppercase;
+    text-align: center;
+    color: #F1818A;
+  }
+  
+  .input-group-addon{
+    font-size: 12px;
+  }
+  
+  .input-group .form-control{
+    font-size: 12px;
+    outline: none;
+  }
+  
+  .btn-primary{
+    font-size: 12px;
+    padding: 6px 10px;
+    background-color: #EF9597;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #F1818A;
+    border-color: #EF9597;
+  }
+
+  /* ===== POUR LE MESSAGE ===== */
+  .boxMsg{
+    margin: 0 0 10px 0;
+    padding: 9.5px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    box-shadow: 0 1px 8px rgba(230, 227, 227, 0.267);
+    border-radius: 4px;
+  }
+
+  .boxMsg .pseudo h1{
+    text-align: left;
+    color: rgba(53, 52, 52, 0.822);
+    margin: 0px;
+    font-size: 22px;
+  }
+
+  .boxMsg .msg{
+    text-align: left;
+    color: rgba(63, 63, 63, 0.822);
+    font-family: 'Poppins', sans-serif;;
+    font-size: px;
+  }
+
+  .boxMsg .date{
+    text-align: end;
+    font-style: italic;
+    color: rgba(239, 149, 150, 0.685);
+    font-size: 12px;
+  }

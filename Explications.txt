@@ -1,0 +1,5 @@
+Bonjour, 
+le fichier activiteopclrm.sql contient la base de donnée et la table chat que j'ai utilisé lors de ce TP.
+N'hésitez surtout pas à voir les deux captures pour voir que le code fonction bien en local et n’oublier 
+pas d'enregistrer le dossier sous votre serveur local pour pouvoir lire sans difficulté les fichier .php. 
+Vous pouvez enlever les commentaires de la ligne 66 sur le fichier index.php pour voir que j’ai bien enregistré les pseudos.  
